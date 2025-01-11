@@ -8,20 +8,20 @@ public class Main {
 		int opcao;
 		
 		do {
-            System.out.println("\nMenu de Opções:");
-            System.out.println("1. Inserir no início");
-            System.out.println("2. Inserir no final");
-            System.out.println("3. Inserir em posição específica");
-            System.out.println("4. Remover do início");
-            System.out.println("5. Remover do final");
-            System.out.println("6. Remover de posição específica");
-            System.out.println("7. Buscar elemento");
-            System.out.println("8. Atualizar elemento");
-            System.out.println("9. Exibir lista");
-            System.out.println("0. Sair");
-            System.out.print("Escolha uma opção: ");
+        	  System.out.println("\nMenu de Opções:");
+          	  System.out.println("1. Inserir no início");
+          	  System.out.println("2. Inserir no final");
+          	  System.out.println("3. Inserir em posição específica");
+          	  System.out.println("4. Remover do início");
+        	  System.out.println("5. Remover do final");
+        	  System.out.println("6. Remover de posição específica");
+         	  System.out.println("7. Buscar elemento");
+         	  System.out.println("8. Atualizar elemento");
+        	  System.out.println("9. Exibir lista");
+         	  System.out.println("0. Sair");
+            	  System.out.print("Escolha uma opção: ");
 
-            opcao = scanner.nextInt();
+            	  opcao = scanner.nextInt();
 
             try {
                 switch (opcao) {
