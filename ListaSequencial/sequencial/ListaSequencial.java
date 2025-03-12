@@ -47,7 +47,7 @@ public class ListaSequencial {
 		lista.remove(posicao);
 	}
 
-	// Pesquisa por elemento (busca sequencial)
+	// Pesquisa por elemento
 	public int buscarElemento(int elemento) {
 		for (int i = 0; i < lista.size(); i++) {
 			if (lista.get(i) == elemento) {
