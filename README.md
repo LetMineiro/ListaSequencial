@@ -1,6 +1,5 @@
 # **Lista Sequencial em Java**  
 
-
 ---
 ## **Como executar o código no VS Code**
 
