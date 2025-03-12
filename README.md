@@ -1,6 +1,5 @@
 # **Lista Sequencial em Java**  
 
-Este repositório contém a implementação de uma lista sequencial em Java utilizando a classe ArrayList, com operações como inserção, remoção, busca, atualização e exibição de elementos.
 
 ---
 ## **Como executar o código no VS Code**
